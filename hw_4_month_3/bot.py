@@ -63,7 +63,7 @@ async def order(message: Message):
 
 
 @dp.message()
-async def order_1(message:Message):
+async def order_1(message: Message):
     cursor.execute('INSERT INTO shop (id, article_phone) VALUES (?, ?)', (message.from_user.id, message.text,))
     conn.commit()
     await message.answer("Спасибо за покупку!")
