@@ -1,0 +1,102 @@
+2024-11-03 23:31:58,515 - INFO - Start polling
+2024-11-03 23:31:59,075 - INFO - Run polling for bot @registration5_bot id=7797835061 - 'Registration'
+2024-11-03 23:35:32,866 - INFO - Polling stopped
+2024-11-03 23:35:33,131 - INFO - Polling stopped for bot @registration5_bot id=7797835061 - 'Registration'
+2024-11-03 23:35:46,933 - INFO - Start polling
+2024-11-03 23:35:47,435 - INFO - Run polling for bot @registration5_bot id=7797835061 - 'Registration'
+2024-11-03 23:36:08,726 - INFO - Update id=758680122 is handled. Duration 594 ms by bot id=7797835061
+2024-11-03 23:36:11,620 - INFO - Пользователь 5785549862 запросил перевод.
+2024-11-03 23:36:11,824 - INFO - Update id=758680123 is handled. Duration 202 ms by bot id=7797835061
+2024-11-03 23:36:14,806 - INFO - Update id=758680124 is handled. Duration 172 ms by bot id=7797835061
+2024-11-03 23:36:18,748 - INFO - Update id=758680125 is handled. Duration 235 ms by bot id=7797835061
+2024-11-03 23:36:20,054 - INFO - Пользователь 5785549862 переводит Dbzibs на 828282.
+2024-11-03 23:36:20,501 - INFO - Update id=758680126 is handled. Duration 452 ms by bot id=7797835061
+2024-11-03 23:36:36,881 - INFO - Пользователь 5785549862 запросил перевод.
+2024-11-03 23:36:37,472 - INFO - Update id=758680127 is handled. Duration 608 ms by bot id=7797835061
+2024-11-03 23:36:39,830 - INFO - Update id=758680128 is handled. Duration 282 ms by bot id=7797835061
+2024-11-03 23:36:46,760 - INFO - Update id=758680129 is handled. Duration 217 ms by bot id=7797835061
+2024-11-03 23:36:48,056 - INFO - Пользователь 5785549862 переводит ;_($;!" на 5785549862.
+2024-11-03 23:36:48,059 - ERROR - Ошибка при выполнении перевода: invalid literal for int() with base 10: ';_($;!"'
+2024-11-03 23:36:48,253 - INFO - Update id=758680130 is handled. Duration 202 ms by bot id=7797835061
+2024-11-03 23:36:57,103 - INFO - Пользователь 5785549862 переводит ;_($;!" на 5785549862.
+2024-11-03 23:36:57,106 - ERROR - Ошибка при выполнении перевода: invalid literal for int() with base 10: ';_($;!"'
+2024-11-03 23:36:57,254 - INFO - Update id=758680131 is handled. Duration 155 ms by bot id=7797835061
+2024-11-03 23:37:01,999 - INFO - Пользователь 5785549862 переводит ;_($;!" на 5785549862.
+2024-11-03 23:37:02,003 - ERROR - Ошибка при выполнении перевода: invalid literal for int() with base 10: ';_($;!"'
+2024-11-03 23:37:02,158 - INFO - Update id=758680132 is handled. Duration 171 ms by bot id=7797835061
+2024-11-03 23:37:06,138 - INFO - Update id=758680133 is handled. Duration 202 ms by bot id=7797835061
+2024-11-03 23:37:29,415 - INFO - Пользователь 5785549862 запросил перевод.
+2024-11-03 23:37:29,960 - INFO - Update id=758680134 is handled. Duration 563 ms by bot id=7797835061
+2024-11-03 23:37:32,553 - INFO - Update id=758680135 is handled. Duration 217 ms by bot id=7797835061
+2024-11-03 23:37:37,219 - INFO - Update id=758680136 is handled. Duration 187 ms by bot id=7797835061
+2024-11-03 23:37:38,373 - INFO - Пользователь 5785549862 переводит 100 на 5785549862.
+2024-11-03 23:37:38,556 - INFO - Update id=758680137 is handled. Duration 186 ms by bot id=7797835061
+2024-11-03 23:43:51,734 - INFO - Start polling
+2024-11-03 23:43:52,299 - INFO - Run polling for bot @registration5_bot id=7797835061 - 'Registration'
+2024-11-03 23:44:22,851 - INFO - User 5785549862 initiated start command.
+2024-11-03 23:44:23,460 - INFO - Update id=758680138 is handled. Duration 609 ms by bot id=7797835061
+2024-11-03 23:44:27,357 - INFO - Update id=758680139 is handled. Duration 250 ms by bot id=7797835061
+2024-11-03 23:44:32,537 - INFO - Update id=758680140 is handled. Duration 282 ms by bot id=7797835061
+2024-11-03 23:44:35,772 - INFO - Update id=758680141 is handled. Duration 171 ms by bot id=7797835061
+2024-11-03 23:44:45,591 - INFO - Update id=758680142 is handled. Duration 188 ms by bot id=7797835061
+2024-11-03 23:44:50,366 - INFO - Update id=758680143 is handled. Duration 641 ms by bot id=7797835061
+2024-11-03 23:44:55,181 - INFO - Update id=758680144 is handled. Duration 172 ms by bot id=7797835061
+2024-11-03 23:44:57,059 - INFO - Update id=758680145 is handled. Duration 297 ms by bot id=7797835061
+2024-11-03 23:45:02,148 - INFO - Update id=758680146 is handled. Duration 186 ms by bot id=7797835061
+2024-11-03 23:45:04,119 - INFO - Update id=758680147 is handled. Duration 531 ms by bot id=7797835061
+2024-11-03 23:45:07,346 - INFO - Update id=758680148 is handled. Duration 250 ms by bot id=7797835061
+2024-11-03 23:45:29,523 - INFO - Update id=758680149 is handled. Duration 436 ms by bot id=7797835061
+2024-11-03 23:45:35,957 - INFO - Пользователь 5785549862 запросил перевод.
+2024-11-03 23:45:36,131 - INFO - Update id=758680150 is handled. Duration 186 ms by bot id=7797835061
+2024-11-03 23:45:40,367 - INFO - Update id=758680151 is handled. Duration 219 ms by bot id=7797835061
+2024-11-03 23:45:42,615 - INFO - Update id=758680152 is handled. Duration 219 ms by bot id=7797835061
+2024-11-03 23:45:43,501 - INFO - Пользователь 5785549862 переводит Jdjsjsb на Ncksbsn.
+2024-11-03 23:45:43,700 - INFO - Update id=758680153 is handled. Duration 202 ms by bot id=7797835061
+2024-11-03 23:45:47,192 - INFO - Пользователь 5785549862 запросил перевод.
+2024-11-03 23:45:47,404 - INFO - Update id=758680154 is handled. Duration 218 ms by bot id=7797835061
+2024-11-03 23:45:52,075 - INFO - Update id=758680155 is handled. Duration 297 ms by bot id=7797835061
+2024-11-03 23:46:35,643 - INFO - Polling stopped
+2024-11-03 23:46:35,900 - INFO - Polling stopped for bot @registration5_bot id=7797835061 - 'Registration'
+2024-11-03 23:49:42,182 - INFO - Start polling
+2024-11-03 23:49:43,019 - INFO - Run polling for bot @registration5_bot id=7797835061 - 'Registration'
+2024-11-03 23:49:43,239 - INFO - Пользователь 5785549862 запросил перевод.
+2024-11-03 23:49:43,784 - INFO - Update id=758680156 is handled. Duration 562 ms by bot id=7797835061
+2024-11-03 23:49:46,815 - INFO - Update id=758680157 is handled. Duration 188 ms by bot id=7797835061
+2024-11-03 23:49:53,929 - INFO - Update id=758680158 is handled. Duration 281 ms by bot id=7797835061
+2024-11-03 23:49:55,494 - INFO - Update id=758680159 is handled. Duration 219 ms by bot id=7797835061
+2024-11-03 23:50:03,760 - INFO - Update id=758680160 is handled. Duration 311 ms by bot id=7797835061
+2024-11-03 23:50:05,604 - INFO - Update id=758680161 is handled. Duration 640 ms by bot id=7797835061
+2024-11-03 23:50:30,497 - INFO - Update id=758680162 is handled. Duration 1578 ms by bot id=7797835061
+2024-11-03 23:50:34,331 - INFO - Update id=758680163 is handled. Duration 282 ms by bot id=7797835061
+2024-11-03 23:50:38,885 - INFO - Update id=758680164 is handled. Duration 170 ms by bot id=7797835061
+2024-11-03 23:50:43,664 - INFO - Update id=758680165 is handled. Duration 202 ms by bot id=7797835061
+2024-11-03 23:50:44,938 - INFO - Update id=758680166 is handled. Duration 233 ms by bot id=7797835061
+2024-11-03 23:50:55,086 - INFO - Пользователь 5934905736 запросил перевод.
+2024-11-03 23:50:55,333 - INFO - Update id=758680167 is handled. Duration 266 ms by bot id=7797835061
+2024-11-03 23:50:58,765 - INFO - Update id=758680168 is handled. Duration 218 ms by bot id=7797835061
+2024-11-03 23:51:03,205 - INFO - Update id=758680169 is handled. Duration 218 ms by bot id=7797835061
+2024-11-03 23:51:04,150 - INFO - Пользователь 5934905736 переводит ;"($;$ на 27#--_.
+2024-11-03 23:51:04,309 - INFO - Update id=758680170 is handled. Duration 156 ms by bot id=7797835061
+2024-11-03 23:51:06,443 - INFO - Пользователь 5934905736 запросил перевод.
+2024-11-03 23:51:06,681 - INFO - Update id=758680171 is handled. Duration 250 ms by bot id=7797835061
+2024-11-03 23:51:11,219 - INFO - Update id=758680172 is handled. Duration 219 ms by bot id=7797835061
+2024-11-03 23:51:36,037 - INFO - Update id=758680173 is handled. Duration 546 ms by bot id=7797835061
+2024-11-03 23:51:37,208 - INFO - Пользователь 5934905736 переводит ;"($;$ на 5934905736.
+2024-11-03 23:51:37,213 - ERROR - Ошибка при выполнении перевода: invalid literal for int() with base 10: ';"($;$'
+2024-11-03 23:51:37,454 - INFO - Update id=758680174 is handled. Duration 250 ms by bot id=7797835061
+2024-11-03 23:51:43,458 - INFO - Пользователь 5934905736 запросил перевод.
+2024-11-03 23:51:43,623 - INFO - Update id=758680175 is handled. Duration 172 ms by bot id=7797835061
+2024-11-03 23:51:46,347 - INFO - Update id=758680176 is handled. Duration 187 ms by bot id=7797835061
+2024-11-03 23:51:52,514 - INFO - Update id=758680177 is handled. Duration 467 ms by bot id=7797835061
+2024-11-03 23:51:53,712 - INFO - Пользователь 5934905736 переводит 500 на 5934905736.
+2024-11-03 23:51:53,991 - INFO - Update id=758680178 is handled. Duration 281 ms by bot id=7797835061
+2024-11-03 23:54:02,413 - INFO - Polling stopped
+2024-11-03 23:54:02,675 - INFO - Polling stopped for bot @registration5_bot id=7797835061 - 'Registration'
+2024-11-03 23:54:27,696 - INFO - Start polling
+2024-11-03 23:54:28,346 - INFO - Run polling for bot @registration5_bot id=7797835061 - 'Registration'
+2024-11-03 23:54:42,067 - INFO - Polling stopped
+2024-11-03 23:54:42,331 - INFO - Polling stopped for bot @registration5_bot id=7797835061 - 'Registration'
+2024-11-03 23:55:33,764 - INFO - Start polling
+2024-11-03 23:55:34,314 - INFO - Run polling for bot @registration5_bot id=7797835061 - 'Registration'
+2024-11-03 23:59:52,655 - INFO - Polling stopped
+2024-11-03 23:59:52,913 - INFO - Polling stopped for bot @registration5_bot id=7797835061 - 'Registration'
