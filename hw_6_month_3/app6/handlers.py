@@ -8,13 +8,13 @@ from app6.db import conn, cursor, get_balance
 import logging
 
 
-# Настройка логирования
+
 logging.basicConfig(
-    level=logging.INFO,  # Уровень логирования (DEBUG, INFO, WARNING, ERROR, CRITICAL)
-    format='%(asctime)s - %(levelname)s - %(message)s',  # Формат сообщений
+    level=logging.INFO, 
+    format='%(asctime)s - %(levelname)s - %(message)s',
     handlers=[
-        logging.FileHandler("bot.log"),  # Запись логов в файл
-        logging.StreamHandler()  # Вывод логов в консоль
+        logging.FileHandler("bot.log"),
+        logging.StreamHandler()
     ]
 )
 
@@ -179,7 +179,7 @@ async def transfer_yes(callback: types.CallbackQuery, state: FSMContext):
         balance = cursor.fetchone()
 
         if balance is not None:
-            new_balance = balance[0] + int(amount)  # Добавляем сумму к текущему балансу
+            new_balance = balance[0] + int(amount)
             cursor.execute("UPDATE users SET balance = ? WHERE id = ?", (new_balance, user_id))
             conn.commit()
             await callback.message.edit_text("Перевод успешно проведён")

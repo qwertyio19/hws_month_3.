@@ -19,6 +19,6 @@ def get_balance(id_user):
     check_balance = cursor.fetchone()
 
     if check_balance is None:
-        return None  # Если пользователь не найден, возвращаем None
+        return None
 
-    return check_balance[0]  # Возвращаем только баланс, если он найден
+    return check_balance[0]
